@@ -76,7 +76,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "cactus"
 
 [comments.disqusjs]
 shortname = ""
@@ -124,7 +124,7 @@ lang = ""
 [comments.cactus]
 defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
 serverName = "cactus.chat"
-siteName = ""
+siteName = "botan-yuukan.github.io/yuukanpedia/"
 
 [comments.giscus]
 repo = ""
