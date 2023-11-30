@@ -87,7 +87,9 @@ adminLabel = ""
 
 [comments.utterances]
 repo = "Botan-Yuukan/yuukanpedia"
-issueTerm = "comments"
+issueTerm = "og:title"
+theme="photon-dark"
+crossorigin="anonymous"
 label = ""
 
 [comments.remark42]
