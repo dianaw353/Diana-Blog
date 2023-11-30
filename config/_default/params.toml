@@ -86,7 +86,7 @@ admin = ""
 adminLabel = ""
 
 [comments.utterances]
-repo = "dianaw353/Diana-blog"
+repo = "dianaw353/Diana-Blog"
 issueTerm = "og:title"
 label = ""
 
