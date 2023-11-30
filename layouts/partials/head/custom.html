@@ -1,8 +1,13 @@
 <style>
     /* Overwrite CSS variable */
     :root {
-        --article-font-family: "Mali',", var(--base-font-family);
-    }
+            --base-font-family: 'Mali', handwriting; /* Change this to your default font family */
+            --article-font-family: 'Mali', handwriting, var(--base-font-family);
+        }
+
+        body {
+            font-family: var(--article-font-family);
+        }
 </style>
 
 <script>
