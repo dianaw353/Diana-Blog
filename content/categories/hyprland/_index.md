@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Hyprland
+description: Wayland tiling window manager
 image:
 
 # Badge style

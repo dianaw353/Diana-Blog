@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: LGBT+
+description: Lesbian, Gay, Bisexual, Trangender & more
 image:
 
 # Badge style
